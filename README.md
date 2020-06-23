@@ -8,7 +8,7 @@ YOLO (You Only Look Once) is an object detection architecture that is quite popu
 
 Since we'll be using a pre-trained model, we'd have to download certain files. The "weights" file , the "configuration" file, and the "coco-names" file. The weights and the configuration file can be found in this [link](https://pjreddie.com/darknet/yolo/) and the coco-names file can be downloaded/copied from [here](https://github.com/pjreddie/darknet/blob/master/data/coco.names). There are several pre-trained models available and we would be using the "YOLOv3–416" model. The models are trained on the MS COCO dataset which has 80 classes of objects present in it.
 
-You can read more about the structure and function of the code here:- 
+You can read more about the structure and function of the code in this [Medium](https://towardsdatascience.com/object-detection-using-yolov3-9112006d1c73) article of mine.
 
 ## Arguments
 
