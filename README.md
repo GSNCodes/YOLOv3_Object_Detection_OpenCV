@@ -41,7 +41,7 @@ The values for the confidence threshold and NMS threshold are set at 0.5 and 0.4
 <img src ='Images/Output1.png' width = 500>
 
 ## Notes
-The code is written in such a way that it searches for the configuration, weights, and class-names file in the current working directory, if nothing is passed in as arguments. So please make sure you provide the path explicitly if you're files are in another directory using the arguments given above.
+The code is written in such a way that it searches for the configuration, weights, and class-names file in the current working directory, if nothing is passed in as arguments. So please make sure you provide the path explicitly if your files are in another directory using the arguments given above.
 
 
 Happy Learning People ! Keep chasing your dreams ! ⭐️
